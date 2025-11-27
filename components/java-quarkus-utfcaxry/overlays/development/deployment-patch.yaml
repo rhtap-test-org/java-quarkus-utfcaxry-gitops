@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/java-quarkus-utfcaxry:2c214052f154775797dcc0535bfb8dd3c1c9bbd2@sha256:8549b15f822d9149dfbbeb19198d964b3cecf62e98f3392c26394cbd65bad5ac
+        - image: quay.io/tsscui/java-quarkus-utfcaxry:d8cc5be7645fdfaf0e9f8e8f14454a3a9d52a3f2@sha256:cbd1ed355ffa1196b9ad9f1ae630eb18ef8417aa3f49b3f81d6d2b8ecc767643
           name: container-image
